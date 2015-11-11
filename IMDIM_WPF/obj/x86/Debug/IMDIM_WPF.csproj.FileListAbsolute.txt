@@ -1,0 +1,11 @@
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\bin\Debug\IMDIM_WPF.exe
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\bin\Debug\IMDIM_WPF.pdb
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\App.g.cs
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\IMDIM_WPF_MarkupCompile.cache
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\IMDIM_WPF.g.resources
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\IMDIM.Properties.Resources.resources
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\IMDIM_WPF.csproj.GenerateResource.Cache
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\IMDIM_WPF.exe
+C:\Users\Jason\documents\visual studio 2010\Projects\IMDIM_WPF\IMDIM_WPF\obj\x86\Debug\IMDIM_WPF.pdb

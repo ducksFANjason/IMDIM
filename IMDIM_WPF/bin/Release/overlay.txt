@@ -1,0 +1,26 @@
+0001,Portrait
+0002,Portrait
+001_Page_1,Landscape
+01,Portrait
+02,Portrait
+03,Portrait
+04,Portrait
+05,Portrait
+20141015103745196,Portrait
+20141023171802408_0001,Portrait
+20141023171807951_0001,Portrait
+20141024170606416_0001,Portrait
+2015-07-21 17.32.00,Landscape
+2015-07-22 19.28.07,Landscape
+IMG_3270(2),Landscape
+IMG_3270,Landscape
+map,Landscape
+Victorias Secret April 10,Landscape
+Victorias Secret Collegiate Collection,Landscape
+Victorias Secret Feb 12,Landscape
+Victorias Secret Jan 7,Landscape
+Victorias Secret Jan 9 (no 2),Landscape
+Victorias Secret Jan 9,Landscape
+Victorias Secret June 16,Landscape
+Victorias Secret March 27,Landscape
+Victorias Secret May 27,Landscape

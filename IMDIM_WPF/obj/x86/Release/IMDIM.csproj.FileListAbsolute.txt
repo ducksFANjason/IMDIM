@@ -1,0 +1,11 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\bin\Release\IMDIM.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\bin\Release\IMDIM.pdb
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\MainWindow.baml
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\App.g.cs
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\IMDIM_MarkupCompile.cache
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\IMDIM.g.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\IMDIM.Properties.Resources.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\IMDIM.csproj.GenerateResource.Cache
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\IMDIM.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\IMDIM\obj\x86\Release\IMDIM.pdb
